@@ -1,0 +1,8 @@
+name: InvalidGeneratedEventExecutorDemo
+version: '${project.version}'
+main: com.janboerman.repro.invalidgeneratedeventexecutor.Demo
+api-version: 1.18
+prefix: IGEED
+authors: [ Jannyboy11 ]
+description: A plugin that showcases a bug in Paper's EventExecutor code generator.
+website: https://github.com/Jannyboy11/GeneratedEventExecutorBug
